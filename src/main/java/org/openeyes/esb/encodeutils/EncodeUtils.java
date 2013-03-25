@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.statefive.encodeutils;
+package org.openeyes.esb.encodeutils;
 
 /**
  * MD5 encoding utilities.
